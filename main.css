@@ -25,6 +25,9 @@ img {
     height: 80%;
 }
 
+.controls {
+    margin-bottom: 50px;
+}
 input {
     width: 100px;
 }
